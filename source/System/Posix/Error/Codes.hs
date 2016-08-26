@@ -7,7 +7,6 @@ Stability   : experimental
 
 Readable names for 'Foreign.C.Error' codes for low-level software.
 Based on <http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/errno.h.html IEEE Std 1003.1, 2013 Edition>.
-
 -}
 module System.Posix.Error.Codes where
 
