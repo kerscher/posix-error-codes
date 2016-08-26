@@ -1,7 +1,7 @@
 POSIX error codes
 ================
 
-Human readable versions of ERRNO codes from `Foreign.C.Error`.
+Human readable versions of ERRNO codes from `Foreign.C.Error` based on [IEEE Std 1003.1, 2013 Edition](http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/errno.h.html).
 
 Contributing
 ------------
